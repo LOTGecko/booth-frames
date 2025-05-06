@@ -1,0 +1,1 @@
+This repo is for hosting purposes only. It contains 400 images for a scrollable section representing a campaign lab/showroom which we're designing and trying to incorporate the visuals into a Landing Page that we'll use for the campaign
